@@ -36,12 +36,18 @@ australian-income-assistance-analysis/
 
 If you prefer not to run the notebook, you can view the full analysis directly:
 
-Open the exported HTML report located in:
+Download the exported HTML report located in:
 ```
 output/census-income-assistance-report.html
 ```
-
 This contains the complete notebook with all outputs and visualisations.
+
+OR
+
+Open the jupyter notebook .ipynb file located in:
+```
+notebook/census-income-assistance-analysis.ipynb
+```
 
 ## Setup & Usage
 
