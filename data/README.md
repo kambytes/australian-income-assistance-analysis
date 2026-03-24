@@ -17,12 +17,13 @@ This folder contains the raw Australian Bureau of Statistics (ABS) Census datase
 After extraction, place the folders inside this directory as follows:
 
 australian-income-assistance-analysis/
-└── data/                                              
-│   ├── 2016_GCP_AUS_for_AUS_short-header/        
-│   │   ├── 2016_Census_GCP_Australia_for_AUS/     
-│   │   ├── Metadata/                             
-│   │   └── README/                                
-│   └── 2021_GCP_AUS_for_AUS_short-header/
-│       ├── 2021_Census_GCP_Australia_for_AUS/         
-│       ├── Metadata/                                  
-│       └── README/                                   
+└── data/
+    ├── 2016_GCP_AUS_for_AUS_short-header/
+    │   ├── 2016_Census_GCP_Australia_for_AUS/
+    │   ├── Metadata/
+    │   └── README/
+    │
+    └── 2021_GCP_AUS_for_AUS_short-header/
+        ├── 2021_Census_GCP_Australia_for_AUS/
+        ├── Metadata/
+        └── README.md                               
