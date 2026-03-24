@@ -1,26 +1,11 @@
 # Australian Census Income & Assistance Analysis (2016 vs 2021)
-
 ## Overview
 This project is a data analysis investigation exploring how personal income and core activity assistance needs vary across age groups using Australian Bureau of Statistics (ABS) Census data.
 
 The analysis compares trends between the 2016 and 2021 Census datasets to examine the relationship between financial disadvantage and health-related vulnerability.
 
----
-
-## Key Visual Insights
-
-### Income Distribution by Age
-![Income](figures/income_vs_age.png)
-
-### Assistance Needs by Age
-![Assistance](figures/assistance_vs_age.png)
-
----
-
 ## Project Objective
 To analyse how income distribution and assistance needs vary across age groups and how these patterns have changed over time.
-
----
 
 ## Methodology
 The project follows a structured data science workflow:
@@ -34,7 +19,6 @@ The project follows a structured data science workflow:
 ---
 
 ## Technologies & Skills
-
 **Language:**
 - Python  
 
@@ -51,8 +35,6 @@ The project follows a structured data science workflow:
 - Data visualisation  
 - Working with real-world census datasets  
 - Analytical reasoning and interpretation  
-
----
 
 ## Repository Structure
 ```
@@ -89,8 +71,6 @@ output/census-income-assistance-analysis.html
 ```
 
 This contains the complete notebook with all outputs and visualisations.
-
----
 
 ## Setup & Usage
 
@@ -134,9 +114,20 @@ Datasets used:
 Raw datasets are not included due to size. See data/README.md for instructions.
 
 ## Key Insights
-- Assistance needs increase significantly with age
-- Lower income groups are more likely to require assistance
-- Trends appear more pronounced in 2021 compared to 2016
+- **Assistance needs increase sharply with age**, particularly from 65+, with the highest levels observed in the 75+ population.
+- **Income follows a life-cycle pattern** — rising from early adulthood, peaking in mid-career (35–54), and declining significantly after retirement.
+- **Older Australians (75+) face a dual burden of financial and health disadvantage**, combining high assistance needs with lower income levels.
+- **Younger groups (15–24) also have low income**, but minimal assistance needs, indicating a different type of financial dependence.
+- **The intersection of low income and high assistance needs is concentrated in older age groups**, highlighting a compounding vulnerability.
+- **Patterns remain consistent between 2016 and 2021**, with a slight increase in assistance needs likely reflecting an ageing population.
+
+## Key Visual Insights
+
+### Income Distribution by Age
+![Income](figures/income_vs_age.png)
+
+### Assistance Needs by Age
+![Assistance](figures/assistance_vs_age.png)
 
 **Author:** Kamleshkumar Senthilkumar  
 **Completed:** 24 September 2025
