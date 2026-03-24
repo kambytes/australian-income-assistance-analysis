@@ -18,7 +18,7 @@ After extraction, place the folders inside this directory as follows:
 
 ```
 australian-income-assistance-analysis/
-└── data/                                              (raw datasets)
+├── data/                                              (raw datasets, to be downloaded by user)
 │   ├── 2016_GCP_AUS_for_AUS_short-header/        
 │   │   ├── 2016_Census_GCP_Australia_for_AUS/     
 │   │   ├── Metadata/                             
@@ -28,7 +28,8 @@ australian-income-assistance-analysis/
 │   │   ├── Metadata/                                  (summary spreadsheets of each table)
 │   │   └── README/                                    (text files overviewing datapacks and terminologies used)
 │   └── README.md                                      (instructions to download datasets)
-├── notebook/census-income-assistance-analysis.ipynb   (this jupyter notebook)
+├── notebook/
+│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook)
 ├── figures/                                           (saved graph images)
 ├── output/                                            (saved html report)
 ├── .gitignore

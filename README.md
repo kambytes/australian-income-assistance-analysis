@@ -57,7 +57,7 @@ The project follows a structured data science workflow:
 ## Repository Structure
 ```
 australian-income-assistance-analysis/
-└── data/                                              (raw datasets, to be downloaded by user)
+├── data/                                              (raw datasets, to be downloaded by user)
 │   ├── 2016_GCP_AUS_for_AUS_short-header/        
 │   │   ├── 2016_Census_GCP_Australia_for_AUS/     
 │   │   ├── Metadata/                             
@@ -68,12 +68,12 @@ australian-income-assistance-analysis/
 │   │   └── README/                                    (text files overviewing datapacks and terminologies used)
 │   └── README.md                                      (instructions to download datasets)
 ├── notebook/
-│   └──census-income-assistance-analysis.ipynb         (this jupyter notebook)
+│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook)
 ├── figures/                                           (saved graph images)
 │   ├── assistance_vs_age.png                          
 │   └── income_vs_age.png 
 ├── output/                                            
-│   └── income_vs_age.png                              (saved html report)
+│   └── census-income-assistance-report.html           (saved html report)
 ├── .gitignore
 ├── README.md
 └── requirements.txt
