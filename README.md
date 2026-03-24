@@ -101,15 +101,6 @@ Datasets used:
 
 Raw datasets are not included due to size. See data/README.md for instructions.
 
-## Methodology
-The project follows a structured data science workflow:
-
-1. Data acquisition from ABS Census datapacks  
-2. Data cleaning and preprocessing  
-3. Exploratory data analysis  
-4. Visualisation of demographic trends  
-5. Comparative analysis between 2016 and 2021  
-
 ## Technologies & Skills
 **Language:**
 - Python  
@@ -122,6 +113,7 @@ The project follows a structured data science workflow:
 - jupyter  
 
 **Skills Demonstrated:**
+- Understanding and application of data science lifecycle
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
 - Data visualisation  
