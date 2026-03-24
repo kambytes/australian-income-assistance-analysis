@@ -106,11 +106,10 @@ Raw datasets are not included due to size. See data/README.md for instructions.
 - Python  
 
 **Libraries:**
-- pandas  
-- numpy  
+- pandas    
 - matplotlib  
 - seaborn  
-- jupyter  
+- jupyter notebook
 
 **Skills Demonstrated:**
 - Understanding and application of data science lifecycle
