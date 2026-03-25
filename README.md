@@ -101,10 +101,10 @@ Source: Australian Bureau of Statistics (ABS)
 https://www.abs.gov.au/census/find-census-data/datapacks
 
 Datasets used:
-- G17B & G17C Total Personal Income (Weekly) by Age by Sex (2016 & 2021)
-- G18 Core Activity Need for Assistance by Age by Sex (2016 & 2021)
+- **G17B & G17C** Total Personal Income (Weekly) by Age by Sex (2016 & 2021)
+- **G18** Core Activity Need for Assistance by Age by Sex (2016 & 2021)
 
-Raw datasets are not included due to size. See data/README.md for instructions.
+Raw datasets are not included due to size. See **data/README.md** for instructions.
 
 ## Technologies & Skills
 **Language:**
@@ -125,4 +125,8 @@ Raw datasets are not included due to size. See data/README.md for instructions.
 - Analytical reasoning and interpretation
 
 **Author:** Kamleshkumar Senthilkumar  
+<<<<<<< HEAD
 **Completed:** 24th September 2025
+=======
+**Completed:** 24th September 2025
+>>>>>>> 5a497d18c08acef653263c76928d4719f3fbe2ba
