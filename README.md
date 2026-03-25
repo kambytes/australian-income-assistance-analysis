@@ -20,14 +20,13 @@ australian-income-assistance-analysis/
 │   │   ├── Metadata/                                  (summary spreadsheets of each table)
 │   │   └── README/                                    (text files overviewing datapacks and terminologies used)
 │   └── README.md                                      (instructions to download datasets)
-├── notebook/
-│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook)
 ├── figures/                                           (saved graph images)
 │   ├── assistance_vs_age.png                          
-│   └── income_vs_age.png 
-├── output/                                            
-│   └── census-income-assistance-report.html           (saved html report)
+│   └── income_vs_age.png
+├── notebook/
+│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook) 
 ├── .gitignore
+├── index.html                                         (saved html report)
 ├── README.md
 └── requirements.txt
 ```
@@ -36,9 +35,9 @@ australian-income-assistance-analysis/
 
 If you prefer not to run the notebook, you can view the full analysis directly:
 
-Download the exported HTML report located in:
+Clicking the GitHub pages link under the repository's About section or by pasting this link in your search engine's address bar:
 ```
-output/census-income-assistance-report.html
+https://kambytes.github.io/australian-income-assistance-analysis/index.html
 ```
 This contains the complete notebook with all outputs and visualisations.
 

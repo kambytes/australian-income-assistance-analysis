@@ -28,11 +28,13 @@ australian-income-assistance-analysis/
 │   │   ├── Metadata/                                  (summary spreadsheets of each table)
 │   │   └── README/                                    (text files overviewing datapacks and terminologies used)
 │   └── README.md                                      (instructions to download datasets)
-├── notebook/
-│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook)
 ├── figures/                                           (saved graph images)
-├── output/                                            (saved html report)
+│   ├── assistance_vs_age.png                          
+│   └── income_vs_age.png
+├── notebook/
+│   └── census-income-assistance-analysis.ipynb        (this jupyter notebook) 
 ├── .gitignore
+├── index.html                                         (saved html report)
 ├── README.md
 └── requirements.txt
 ```
