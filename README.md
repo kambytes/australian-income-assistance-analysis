@@ -125,8 +125,4 @@ Raw datasets are not included due to size. See **data/README.md** for instructio
 - Analytical reasoning and interpretation
 
 **Author:** Kamleshkumar Senthilkumar  
-<<<<<<< HEAD
 **Completed:** 24th September 2025
-=======
-**Completed:** 24th September 2025
->>>>>>> 5a497d18c08acef653263c76928d4719f3fbe2ba
